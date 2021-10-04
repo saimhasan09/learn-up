@@ -1,5 +1,5 @@
 # Learn up
-### live-site: 
+### live-site:https://learn-up10.netlify.app/ 
 ### Technology: React.js, JavaScript, HTML, CSS
 # Project Details:
 <li>Learn up is a leading educational platform for superior online courses </li>
