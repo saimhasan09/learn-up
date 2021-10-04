@@ -1,0 +1,93 @@
+[
+    {
+        "id":1,
+        "img": "https://i.ibb.co/ZM9FRtS/video.jpg",
+        "name": "Video Editing",
+        "Instructor": "Aaron Hank",
+        "rating": 4.5,
+        "duration": "6 hour",
+        "price": 45
+        
+    },
+    {
+        "id":2,
+        "img": "https://i.ibb.co/gjMvswW/web.jpg",
+        "name": "Web Design",
+        "Instructor": "Abagnale Frank",
+        "rating": 4.8,
+        "duration": "12 hour",
+        "price": 79
+        
+    },
+    {
+        "id":3,
+        "img": "https://i.ibb.co/H4mLksP/seo.jpg",
+        "name": "SEO",
+        "Instructor": "Abbey Edward",
+        "rating": 3.9,
+        "duration": "2 hour",
+        "price": 39
+        
+    },
+    {
+        "id":4,
+        "img": "https://i.ibb.co/kHPFvVn/Programming.jpg",
+        "name": "Programming",
+        "Instructor": "Abel Reuben",
+        "rating": 4.9,
+        "duration": "24 hour",
+        "price": 89
+        
+    },
+    {
+        "id":5,
+        "img": "https://i.ibb.co/6g19YsF/office.jpg",
+        "name": "Office Application",
+        "Instructor": "Abelson Hal",
+        "rating": 3.8,
+        "duration": "4 hour",
+        "price": 20
+        
+    },
+    {
+        "id":6,
+        "img": "https://i.ibb.co/7XhPdTR/networking.jpg",
+        "name": "Networking",
+        "Instructor": "Abourezk James",
+        "rating": 4.1,
+        "duration": "6.30 hours",
+        "price": 12
+        
+    },
+    {
+        "id":7,
+        "img": "https://i.ibb.co/kXWBcxF/motion.jpg",
+        "name": "Motion Graphics",
+        "Instructor": "Abrams Creighton",
+        "rating": 3.8,
+        "duration": "6 hour",
+        "price": 65
+        
+    },
+    {
+        "id":8,
+        "img": "https://i.ibb.co/BsXxj9X/ielts.jpg",
+        "name": "IELTS",
+        "Instructor": "Adams Henry",
+        "rating": 4.5,
+        "duration": "3 hour",
+        "price": 35
+        
+    },
+    {
+        "id":9,
+        "img": "https://i.ibb.co/y49s36s/graphics.jpg",
+        "name": "Graphics Design",
+        "Instructor": "Adler Alfred",
+        "rating": 4.8,
+        "duration": "10 hour",
+        "price": 20
+        
+    }
+
+]
