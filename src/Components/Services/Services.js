@@ -1,5 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import CourseCard from '../CourseCard/CourseCard';
+import Header from '../Header/Header';
+import Footer from '../Footer/Footer';
 
 const Services = () => {
 
@@ -14,6 +16,8 @@ const Services = () => {
     }, []);
     return (
         <div>
+            <Header></Header>
+
             <h2 className="text-center fs-1 fw-bolder"> All Courses</h2>
             <div className="d-flex flex-wrap justify-content-center">
                 {
@@ -21,6 +25,7 @@ const Services = () => {
                 }
 
             </div>
+            <Footer></Footer>
         </div>
     );
 };

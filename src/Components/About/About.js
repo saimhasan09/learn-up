@@ -1,9 +1,13 @@
 import React from 'react';
+import Header from '../Header/Header';
+import Footer from '../Footer/Footer';
 
 const About = () => {
     return (
 
-        <div className="container row ms-2">
+        <div>
+            <Header></Header>
+            <div className="container row ms-2">
             <img className="img-fluid w-50 col-md-6 " src="https://i.ibb.co/fkw0GFJ/2672292.jpg" alt="contact" border="0"></img>
 
             <div className="col-md-6">
@@ -14,6 +18,8 @@ const About = () => {
 
             </div>
 
+            </div>
+            <Footer></Footer>
         </div>
 
     );

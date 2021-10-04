@@ -2,7 +2,7 @@
     display: flex;
     justify-content: space-between;
     align-items:center;
-    margin-right: 20px;
+    margin-right: 25px;
 }
 
 .header-text {
@@ -10,5 +10,4 @@
     text-decoration: none;
     font-size:24px;
     font-weight:700;
-    padding-right: px;
 }

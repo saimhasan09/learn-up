@@ -3,8 +3,8 @@ import React from 'react';
 const NotFound = () => {
     return (
         <div className="text-center">
-            <h2>404</h2>
-            <h2>Page  not found</h2>
+            <img className="img-fluid" src="https://i.ibb.co/xY5r02r/404.png" alt="404" border="0" />
+            <h2 className="fs-1 fw-bolder">Page Not Found</h2>
         </div>
     );
 };

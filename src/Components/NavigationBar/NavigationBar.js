@@ -6,7 +6,7 @@ import './NavigationBar.css';
 
 const NavigationBar = () => {
     return (
-        <div className="header">
+        <div className="header d-flex flex-wrap">
             <div >
                 <img src={logo} alt="" />
             </div>

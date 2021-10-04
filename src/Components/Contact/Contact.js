@@ -1,15 +1,18 @@
 import React from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faEnvelopeSquare, faMapMarker, faPhone } from '@fortawesome/free-solid-svg-icons';
-
+import Header from '../Header/Header';
+import Footer from '../Footer/Footer';
 
 
 const Contact = () => {
     return (
-        <div className="container row ms-2">
+        <div>
+            <Header></Header>
+            <div className="container row ms-2">
             <img className="img-fluid w-50 col-md-6 " src="https://i.ibb.co/q0hq524/contact.jpg" alt="contact" border="0"></img>
 
-            <div className="col-md-6">
+            <div className="col-md-6 align-items-center">
                 <h1 className="fs-1 fw-bolder ">CONTACT US</h1>
                 <p> Please feel free and  contact us at</p>
 
@@ -20,6 +23,8 @@ const Contact = () => {
 
             </div>
 
+            </div>
+            <Footer></Footer>
         </div>
     );
 };
